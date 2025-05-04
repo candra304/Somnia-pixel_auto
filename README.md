@@ -1,4 +1,4 @@
-# SAT SET Pixel Bot
+# SAT SET somnia Pixel Bot
 
 Bot otomatis untuk mewarnai pixel di kontrak Somnia.
 

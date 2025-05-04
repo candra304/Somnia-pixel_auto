@@ -1,2 +1,1 @@
-http://login:password@hostname:port
-http://login:password@hostname:port
+Masukan proxy 
